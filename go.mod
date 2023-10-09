@@ -1,4 +1,4 @@
-module github.com/n0madic/twitter-scraper
+module github.com/ThallesP/twitter-scraper-openaccount
 
 go 1.16
 
